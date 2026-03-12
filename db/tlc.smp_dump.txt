@@ -1,0 +1,7 @@
+
+State Machine - |tlc|state
+Name state.W state.R state.Y state.G 
+state.G 0 0 0 0 
+state.Y 0 0 1 1 
+state.R 0 1 0 1 
+state.W 1 0 0 1 
